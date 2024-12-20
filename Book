@@ -1,6 +1,0 @@
-print_book,book 1,a,fiction,100,0
-audio_book,book 2,b,n-fiction,0,60
-print_book,book 3,c,fiction,64,0
-audio_book,book 4,d,n-fiction,0,30
-print_book,book 5,e,fiction,120,0
-audio_book,book 6,f,n-fiction,0,15
