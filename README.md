@@ -25,5 +25,5 @@ B. For example, in the Main class, generic calls to methods like "getTotalCost()
 A. The abstract class "Book" and the interface "BookInterface" define core functionalities (e.g., getCost() and StoreBookInfo()), which must be implemented by subclasses.
 B. This abstraction simplifies the design and allows for future extensions, such as adding new book types, without affecting the existing functionality.
 
-For a detailed walkthrough on how to set up and use this project, please refer to the tutorial video:
+For a detailed walkthrough on how to use this project, please refer to the tutorial video:
 https://www.loom.com/share/c3f772202cb84984800827522b476088?sid=55bdef0b-2896-4829-b196-5f8d804866ac
